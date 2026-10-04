@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Sachin Saumya 👋
 
-<!--
-**sachinsaumya245-cmd/sachinsaumya245-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical & Electronic Engineering Undergraduate at the University of Peradeniya.
 
-Here are some ideas to get you started:
+I am interested in embedded systems, sensors, IoT, low-power devices, firmware development, and smartphone hardware R&D.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Embedded C/C++
+- ESP32
+- Sensor systems
+- IoT
+- I2C communication
+- Wearable electronics
+- Low-power embedded systems
+
+## Featured Project
+
+### Smart Swimming Tracker
+
+An embedded IoT wearable for monitoring swimming performance using:
+
+- ESP32
+- MPU6050
+- MAX30102
+- Blynk IoT
+- motion analysis
+- lap and stroke detection
+- heart-rate monitoring
+- speed calculation
+
+[View the Smart Swimming Tracker](https://github.com/sachinsaumya245-cmd/smart-swimming-tracker)
+
+## Areas I Want to Explore
+
+- Smartphone hardware
+- Embedded firmware
+- BLE
+- Sensor fusion
+- ARM microcontrollers
+- STM32
+- FreeRTOS
+- Semiconductor and mobile-device R&D
+
+## Connect With Me
+
+LinkedIn: www.linkedin.com/in/sachin-saumya-951b962b5
